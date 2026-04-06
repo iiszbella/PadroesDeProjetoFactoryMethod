@@ -6,4 +6,4 @@ A fábrica (ServicoFactory) é responsável por instanciar dinamicamente o servi
 
 Escolhi o cartório como cenário para essa atividade porque ele possui diversos serviços distintos, mas que compartilham uma estrutura comum, o que torna o uso do Factory Method ideal para organizar e expandir o sistema.
 
-UML - https://drive.google.com/file/d/1-8O95R_ZWYMiA17aINVls1h9L7YcWriS/view?usp=sharing
+Diagrama UML - https://drive.google.com/file/d/1-8O95R_ZWYMiA17aINVls1h9L7YcWriS/view?usp=sharing
